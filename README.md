@@ -14,4 +14,4 @@
 <img src="Images/8.png" width=1200 height=500>
 <img src="Images/9.png" width=1200 height=500>
 <h2>Your Information in the Datbase</h2>
-<img src="Images/10.png" width=1400 height=700>
+<img src="Images/10.png" width=1500 height=700>
