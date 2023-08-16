@@ -1,3 +1,4 @@
+<h1>Smart Health System</h1>
 <h2>Home Page</h2>
 <img src="Images/1.png" width=1200 height=500>
 <img src="Images/2.png" width=1200 height=500>
